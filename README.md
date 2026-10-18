@@ -40,8 +40,3 @@ FlappyBird-RL/
 - Experience Replay
 - Exploration versus exploitation
 - Neural-network-based action-value estimation
-
-## Reference
-Inspired by the [RL_DQN repository](https://github.com/shradha-khapra/RL_DQN).
-
-This project should credit the original authors for any code or material adapted from their work. Please refer to the original repository's license for reuse conditions.
